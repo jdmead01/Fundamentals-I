@@ -1,5 +1,5 @@
-# Fundamentals-I
-# Fundamentals I
+
+# Fundamentals 1
 
 It's important that you get familiar with using C# variables, if/else statements, and loops. These are the essential components you'll use to build the majority of the features of your apps. These basic assignments are to help you master some of these concepts.
 
