@@ -1,0 +1,11 @@
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/bin/Debug/netcoreapp2.2/Fundemantals1.deps.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/bin/Debug/netcoreapp2.2/Fundemantals1.runtimeconfig.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/bin/Debug/netcoreapp2.2/Fundemantals1.runtimeconfig.dev.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/bin/Debug/netcoreapp2.2/Fundemantals1.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/bin/Debug/netcoreapp2.2/Fundemantals1.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/obj/Debug/netcoreapp2.2/Fundemantals1.csprojAssemblyReference.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/obj/Debug/netcoreapp2.2/Fundemantals1.csproj.CoreCompileInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/obj/Debug/netcoreapp2.2/Fundemantals1.AssemblyInfoInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/obj/Debug/netcoreapp2.2/Fundemantals1.AssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/obj/Debug/netcoreapp2.2/Fundemantals1.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/Fundemantals1/obj/Debug/netcoreapp2.2/Fundemantals1.pdb
